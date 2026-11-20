@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+build/
+dist/
+*.spec
+retailpulse_data/
+.vscode/
+.DS_Store
